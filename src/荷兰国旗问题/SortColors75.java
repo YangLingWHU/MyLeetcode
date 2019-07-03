@@ -12,23 +12,21 @@ public class SortColors75 {
     // 如何不使用简单的思想？比如：计算每种元素的数量，再重新组成数组.
     // 需要多次练习
     public void sortColors(int[] nums) {
-//        int i = 0;
-//        int lessThan1 = 0;
-//        int moreThan1 = nums.length - 1;
-//        while (i <= moreThan1) {
-//            if (nums[i] == 1) {
-//                i++;
-//            } else if (nums[i] == 0) {
-//                swap(nums, i, lessThan1);
-//                lessThan1++;
-//                i++;
-//            } else if (nums[i] == 2) {
-//                swap(nums, i, moreThan1);
-//                moreThan1--;
-//            }
-//        }
-
-        Arrays.sort(nums);
+        int i = 0;
+        int lessThan1 = 0;
+        int moreThan1 = nums.length - 1;
+        while (i <= moreThan1) {
+            if (nums[i] == 1) {
+                i++;
+            } else if (nums[i] == 0) {
+                swap(nums, i, lessThan1);
+                lessThan1++;
+                i++;
+            } else if (nums[i] == 2) {
+                swap(nums, i, moreThan1);
+                moreThan1--;
+            }
+        }
     }
 
     private void swap(int[] nums, int i, int j) {
