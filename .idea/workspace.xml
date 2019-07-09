@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d2e3dd7-5ab1-4d3f-9c55-aef06fc64993" name="Default" comment="Math题目">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ArithmeticSlices413.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/DivisorGame1025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MaximumSubarray53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinCostClimbingStairs746.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinimumPathSum64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/RangeSumQuery303.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/UniquePaths62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkList/AddTwoNumbersII445.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkList/IntersectionOfTwoLinkedLists160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkList/MergeTwoSortedLists21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkList/RemoveDuplicatesFromSortedList83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkList/RemoveNthNodeFromEndIOfList19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkList/ReverseLinkedList206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkList/SwapNodesInPairs24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/MaximumProductOfThreeNumbers628.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/MinimumMovesToEqualArrayElementsII462.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoStrategy/CountAndSay38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoStrategy/TwoSum1.java" afterDir="false" />
+    <list default="true" id="2d2e3dd7-5ab1-4d3f-9c55-aef06fc64993" name="Default" comment="链表1">
+      <change afterPath="$PROJECT_DIR$/src/LinkList/AddTwoNumbers02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkList/SplitLinkedListInParts725.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/JVM/TestClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/JVM/TestClassLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JVM/TestClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JVM/TestClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/AddTwoNumbersII445.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/AddTwoNumbersII445.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,73 +26,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/MaximumSubarray53.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkList/IntersectionOfTwoLinkedLists160.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="769">
-              <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinkList/ReverseLinkedList206.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="368">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkList/MergeTwoSortedLists21.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkList/AddTwoNumbersII445.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="483">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkList/RemoveDuplicatesFromSortedList83.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkList/AddTwoNumbers02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkList/RemoveNthNodeFromEndIOfList19.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkList/SwapNodesInPairs24.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="690">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LinkList/AddTwoNumbersII445.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkList/SplitLinkedListInParts725.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="552">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,9 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/greedy/MaximumSubarray53.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/SingleElementInASortedArray540.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/FirstBadVersion278.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/FindMinimuminRotatedSortedArray153.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/replaceSpace2.java" />
         <option value="$PROJECT_DIR$/src/BFS/PerfectSquares279_BFS.java" />
@@ -172,21 +119,24 @@
         <option value="$PROJECT_DIR$/src/Math/MinimumMovesToEqualArrayElementsII462.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/MinimumPathSum64.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/UniquePaths62.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProgramming/RangeSumQuery303.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/ArithmeticSlices413.java" />
         <option value="$PROJECT_DIR$/src/JVM/TestClassLoader.java" />
         <option value="$PROJECT_DIR$/src/NoStrategy/TwoSum1.java" />
-        <option value="$PROJECT_DIR$/src/NoStrategy/CountAndSay38.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/MaximumSubarray53.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/MinCostClimbingStairs746.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/DivisorGame1025.java" />
         <option value="$PROJECT_DIR$/src/LinkList/IntersectionOfTwoLinkedLists160.java" />
-        <option value="$PROJECT_DIR$/src/LinkList/ReverseLinkedList206.java" />
         <option value="$PROJECT_DIR$/src/LinkList/MergeTwoSortedLists21.java" />
         <option value="$PROJECT_DIR$/src/LinkList/RemoveDuplicatesFromSortedList83.java" />
         <option value="$PROJECT_DIR$/src/LinkList/RemoveNthNodeFromEndIOfList19.java" />
         <option value="$PROJECT_DIR$/src/LinkList/SwapNodesInPairs24.java" />
+        <option value="$PROJECT_DIR$/src/NoStrategy/CountAndSay38.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/RangeSumQuery303.java" />
         <option value="$PROJECT_DIR$/src/LinkList/AddTwoNumbersII445.java" />
+        <option value="$PROJECT_DIR$/src/LinkList/PalindromeLinkedList234.java" />
+        <option value="$PROJECT_DIR$/src/LinkList/ReverseLinkedList206.java" />
+        <option value="$PROJECT_DIR$/src/LinkList/AddTwoNumbers02.java" />
+        <option value="$PROJECT_DIR$/src/LinkList/SplitLinkedListInParts725.java" />
       </list>
     </option>
   </component>
@@ -204,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,6 +183,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DivisorGame1025">
+  <component name="RunManager" selected="Application.SplitLinkedListInParts725">
     <configuration name="CountAndSay38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NoStrategy.CountAndSay38" />
       <module name="leetcode" />
@@ -314,13 +264,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoStrategy.TwoSum1" />
+    <configuration name="SplitLinkedListInParts725" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkList.SplitLinkedListInParts725" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NoStrategy.*" />
+          <option name="PATTERN" value="LinkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,19 +301,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TwoSum1" />
       <item itemvalue="Application.CountAndSay38" />
       <item itemvalue="Application.MaximumSubarray53" />
       <item itemvalue="Application.MinCostClimbingStairs746" />
       <item itemvalue="Application.DivisorGame1025" />
+      <item itemvalue="Application.SplitLinkedListInParts725" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SplitLinkedListInParts725" />
         <item itemvalue="Application.DivisorGame1025" />
         <item itemvalue="Application.MinCostClimbingStairs746" />
         <item itemvalue="Application.MaximumSubarray53" />
         <item itemvalue="Application.CountAndSay38" />
-        <item itemvalue="Application.TwoSum1" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +364,8 @@
       <workItem from="1562207658016" duration="13931000" />
       <workItem from="1562294602794" duration="59000" />
       <workItem from="1562566141487" duration="1427000" />
-      <workItem from="1562572467879" duration="7459000" />
+      <workItem from="1562572467879" duration="9006000" />
+      <workItem from="1562641615496" duration="8594000" />
     </task>
     <task id="LOCAL-00001" summary="三个DFS题目，有递归和非递归">
       <created>1561967123187</created>
@@ -430,51 +381,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562151272457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="链表1">
+      <created>1562580084742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562580084742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161387000" />
+    <option name="totallyTimeSpent" value="171528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-982" width="1096" height="1896" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994253" visible="true" weight="0.22490348" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.5005747" side_tool="true" weight="0.33204633" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3296893" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32853854" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39873418" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3296893" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32949972" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3296893" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32853854" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3291506" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="SciView" order="10" />
-      <window_info anchor="right" x="0" y="0" width="224" height="1696" id="Documentation" order="11" side_tool="true" type="SLIDING" weight="0.64285713" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994253" visible="true" weight="0.24517375" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994253" weight="0.22876447" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -485,7 +409,7 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3296893" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32853854" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.39873418" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39873418" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -506,6 +430,42 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="SciView" order="10" />
       <window_info anchor="right" x="0" y="0" width="224" height="1696" id="Documentation" order="11" side_tool="true" type="SLIDING" weight="0.64285713" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3291506" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994253" visible="true" weight="0.22876447" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5005747" side_tool="true" weight="0.33204633" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3296893" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32853854" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39873418" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3296893" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32949972" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3296893" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32853854" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" x="0" y="0" width="224" height="1696" id="Documentation" order="11" side_tool="true" type="SLIDING" weight="0.64285713" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3291506" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +474,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="三个DFS题目，有递归和非递归" />
     <MESSAGE value="Math题目" />
-    <option name="LAST_COMMIT_MESSAGE" value="Math题目" />
+    <MESSAGE value="链表" />
+    <MESSAGE value="链表1" />
+    <option name="LAST_COMMIT_MESSAGE" value="链表1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -665,11 +627,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="dp[i - 1] + nums[i]" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$DivisorGame1025.ic" NAME="DivisorGame1025 Coverage Results" MODIFIED="1562574048015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -686,37 +643,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/荷兰国旗问题/SortColors75.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/CountPrimes204.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/LetterCombinationsOfPhoneNumber17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="67" column="49" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/BaseSeven504.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" selection-start-line="31" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Math/ConvertNumberToHexadecimal405.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -971,24 +897,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NoStrategy/CountAndSay38.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/ArithmeticSlices413.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/RangeSumQuery303.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1046,38 +958,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkList/IntersectionOfTwoLinkedLists160.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkList/AddTwoNumbersII.java" />
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/RangeSumQuery303.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkList/ReverseLinkedList206.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkList/MergeTwoSortedLists21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkList/RemoveDuplicatesFromSortedList83.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="598">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkList/RemoveNthNodeFromEndIOfList19.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -1088,10 +980,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoStrategy/CountAndSay38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/MergeTwoSortedLists21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/RemoveDuplicatesFromSortedList83.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/IntersectionOfTwoLinkedLists160.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/PalindromeLinkedList234.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/ReverseLinkedList206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkList/AddTwoNumbersII445.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="483">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/AddTwoNumbers02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/SplitLinkedListInParts725.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
