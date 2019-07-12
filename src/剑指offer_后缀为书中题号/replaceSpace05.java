@@ -1,8 +1,8 @@
-package 剑指offer;
+package 剑指offer_后缀为书中题号;
 
 // 牛客网剑指offer系列 第二题
 
-public class replaceSpace2 {
+public class replaceSpace05 {
     public String replaceSpace(StringBuffer str) {
         int count = 0;
         int oldLen = str.length();
@@ -29,7 +29,7 @@ public class replaceSpace2 {
 
     public static void main(String[] args) {
         StringBuffer a = new StringBuffer("We Are Happy.");
-        replaceSpace2 o = new replaceSpace2();
+        replaceSpace05 o = new replaceSpace05();
         System.out.println(o.replaceSpace(a));
     }
 }
