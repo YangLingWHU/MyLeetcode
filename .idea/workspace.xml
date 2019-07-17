@@ -2,65 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d2e3dd7-5ab1-4d3f-9c55-aef06fc64993" name="Default" comment="剑指offer">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/CountBinarySubstrings696.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/PalindromicSubstrings647.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/NextGreaterElements503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringQuestions/IsomorphicStrings205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringQuestions/LongestPalindrome409.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringQuestions/PalindromeNumber9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/MinNumberInRotateArray11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BFS/PerfectSquares279_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BFS/PerfectSquares279_BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/FindMinimuminRotatedSortedArray153.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/FindMinimuminRotatedSortedArray153.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/FindSmallestLetterGreaterThanTarget744.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/FindSmallestLetterGreaterThanTarget744.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/FirstBadVersion278.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/FirstBadVersion278.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/SingleElementInASortedArray540.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/SingleElementInASortedArray540.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/Sqrt_X_69.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/Sqrt_X_69.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BucketSort/SortCharactersByFrequency451.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BucketSort/SortCharactersByFrequency451.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BucketSort/TopKFrequentElements347.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BucketSort/TopKFrequentElements347.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Heap/KthElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Heap/KthElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/JVM/TestClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/JVM/TestClassLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/AssignCookies455.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/AssignCookies455.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/BestTimetoBuyandSellStock121.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/BestTimetoBuyandSellStock121.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/CanPlaceFlowers605.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/CanPlaceFlowers605.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/IsSubsequence392.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/IsSubsequence392.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/MaximumSubarray53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MaximumSubarray53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/MinimumNumberofArrowstoBurstBalloons452$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MinimumNumberofArrowstoBurstBalloons452$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/MinimumNumberofArrowstoBurstBalloons452.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MinimumNumberofArrowstoBurstBalloons452.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/NonDecreasingArray665.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/NonDecreasingArray665.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/NonOverlappingIntervals435$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/NonOverlappingIntervals435$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/NonOverlappingIntervals435.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/NonOverlappingIntervals435.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/QueueReconstructionbyHeight406$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/QueueReconstructionbyHeight406$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/QueueReconstructionbyHeight406.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/QueueReconstructionbyHeight406.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/荷兰国旗问题/SortColors75.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NoStrategy/TwoSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashTable/TwoSum1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackQueue/MinStack155.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackQueue/MinStack155.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/层次遍历/AverageOfLevelsInBinaryTree637.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/LevelTraversal/AverageOfLevelsInBinaryTree637.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/层次遍历/FindBottomLeftTreeValue513.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/LevelTraversal/FindBottomLeftTreeValue513.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/层次遍历/InvertBinaryTree226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/LevelTraversal/InvertBinaryTree226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/BalancedBinaryTree110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/BalancedBinaryTree110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/DiameterOfBinaryTree543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/DiameterOfBinaryTree543.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/MaximumDepthOfBinaryTree104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/MaximumDepthOfBinaryTree104.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/MergeTwoBinaryTrees226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/MergeTwoBinaryTrees226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/MinimumDepthOfBinaryTree111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/MinimumDepthOfBinaryTree111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/PathSum112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/PathSum112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/PathSumIII437.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/PathSumIII437.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/SubtreeOfAnotherTree572.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/SubtreeOfAnotherTree572.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/SumOfLeftLeaves404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/SumOfLeftLeaves404.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/递归/SymmetricTree101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Recursion/SymmetricTree101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/ClimbingStairsIIP78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/ClimbingStairsIIP78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/DuplicateNumberInArray03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/DuplicateNumberInArray03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/GetNextInTree08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/GetNextInTree08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/PrintReverseLinkList06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/PrintReverseLinkList06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/QuickSortP80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/QuickSortP80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/RebuildTree07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/RebuildTree07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/RectangleCoverP79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/RectangleCoverP79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/TwoStacksToOneQueue09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/TwoStacksToOneQueue09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer_后缀为书中题号/replaceSpace05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/replaceSpace05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/荷兰国旗问题/SortColors75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Holland_Flag/SortColors75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayAndMatrix/MaxConsecutiveOnes485.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayAndMatrix/MaxConsecutiveOnes485.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayAndMatrix/MoveZeroes283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayAndMatrix/MoveZeroes283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayAndMatrix/ReshapeMatrix566.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayAndMatrix/ReshapeMatrix566.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayAndMatrix/Search2DMatrixII240.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayAndMatrix/Search2DMatrixII240.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,95 +25,7 @@
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/MergeTwoBinaryTrees226.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/MinimumDepthOfBinaryTree111.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/PathSum112.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/PathSumIII437.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SubtreeOfAnotherTree572.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SumOfLeftLeaves404.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SymmetricTree101.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/PalindromicSubstrings647.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/CountBinarySubstrings696.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -194,10 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LinkList/MergeTwoSortedLists21.java" />
-        <option value="$PROJECT_DIR$/src/LinkList/RemoveDuplicatesFromSortedList83.java" />
-        <option value="$PROJECT_DIR$/src/LinkList/RemoveNthNodeFromEndIOfList19.java" />
-        <option value="$PROJECT_DIR$/src/LinkList/SwapNodesInPairs24.java" />
         <option value="$PROJECT_DIR$/src/NoStrategy/CountAndSay38.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/RangeSumQuery303.java" />
         <option value="$PROJECT_DIR$/src/LinkList/AddTwoNumbersII445.java" />
@@ -245,14 +99,18 @@
         <option value="$PROJECT_DIR$/src/DynamicProgramming/PalindromicSubstrings647.java" />
         <option value="$PROJECT_DIR$/src/StringQuestions/PalindromeNumber9.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/CountBinarySubstrings696.java" />
+        <option value="$PROJECT_DIR$/src/ArrayAndMatrix/MoveZeroes283.java" />
+        <option value="$PROJECT_DIR$/src/ArrayAndMatrix/ReshapeMatrix566.java" />
+        <option value="$PROJECT_DIR$/src/ArrayAndMatrix/MaxConsecutiveOnes485.java" />
+        <option value="$PROJECT_DIR$/src/ArrayAndMatrix/Search2DMatrixII240.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-982" />
-    <option name="width" value="1096" />
-    <option name="height" value="1896" />
+    <option name="x" value="291" />
+    <option name="y" value="867" />
+    <option name="width" value="1070" />
+    <option name="height" value="1807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -263,104 +121,36 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MyLeetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLeetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MyLeetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLeetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MyLeetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLeetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Holland_Flag" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhi_offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Math" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="NoStrategy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StackQueue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StringQuestions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="LevelTraversal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayAndMatrix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AI_Compatition/gAnswer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -377,21 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountBinarySubstrings696">
-    <configuration name="ClimbingStairsIIP78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.ClimbingStairsIIP78" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReshapeMatrix566">
     <configuration name="CountBinarySubstrings696" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.CountBinarySubstrings696" />
       <module name="leetcode" />
@@ -406,13 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenLinkedList328" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkList.OddEvenLinkedList328" />
+    <configuration name="MoveZeroes283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAndMatrix.MoveZeroes283" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkList.*" />
+          <option name="PATTERN" value="ArrayAndMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,6 +224,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReshapeMatrix566" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAndMatrix.ReshapeMatrix566" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayAndMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -471,19 +261,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OddEvenLinkedList328" />
-      <item itemvalue="Application.ClimbingStairsIIP78" />
       <item itemvalue="Application.QuickSortP80" />
       <item itemvalue="Application.PalindromicSubstrings647" />
       <item itemvalue="Application.CountBinarySubstrings696" />
+      <item itemvalue="Application.MoveZeroes283" />
+      <item itemvalue="Application.ReshapeMatrix566" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReshapeMatrix566" />
+        <item itemvalue="Application.MoveZeroes283" />
         <item itemvalue="Application.CountBinarySubstrings696" />
         <item itemvalue="Application.PalindromicSubstrings647" />
         <item itemvalue="Application.QuickSortP80" />
-        <item itemvalue="Application.ClimbingStairsIIP78" />
-        <item itemvalue="Application.OddEvenLinkedList328" />
       </list>
     </recent_temporary>
   </component>
@@ -543,6 +333,9 @@
       <workItem from="1563163696732" duration="1135000" />
       <workItem from="1563177456629" duration="9000" />
       <workItem from="1563250754039" duration="6973000" />
+      <workItem from="1563262281385" duration="4856000" />
+      <workItem from="1563268713191" duration="497000" />
+      <workItem from="1563269841542" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="三个DFS题目，有递归和非递归">
       <created>1561967123187</created>
@@ -576,24 +369,24 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223680000" />
+    <option name="totallyTimeSpent" value="229036000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-982" width="1096" height="1896" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="835" width="1920" height="1014" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994253" visible="true" weight="0.22586873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994253" visible="true" weight="0.13022508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5005747" side_tool="true" weight="0.33204633" />
       <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3296893" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32853854" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.53394705" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32847533" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.36547086" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -613,7 +406,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="SciView" order="10" />
-      <window_info anchor="right" x="0" y="0" width="224" height="1696" id="Documentation" order="11" side_tool="true" type="SLIDING" weight="0.64285713" />
+      <window_info anchor="right" x="0" y="0" width="224" height="1696" id="Documentation" internal_type="SLIDING" order="11" side_tool="true" type="SLIDING" weight="0.64285713" />
       <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3291506" />
     </layout>
     <layout-to-restore>
@@ -648,7 +441,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="SciView" order="10" />
-      <window_info anchor="right" x="0" y="0" width="224" height="1696" id="Documentation" order="11" side_tool="true" type="SLIDING" weight="0.64285713" />
+      <window_info anchor="right" x="0" y="0" width="224" height="1696" id="Documentation" internal_type="SLIDING" order="11" side_tool="true" type="SLIDING" weight="0.64285713" />
       <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3291506" />
     </layout-to-restore>
   </component>
@@ -816,17 +609,14 @@
           <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayAndMatrix/MoveZeroes283.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="dp[2][3]" />
-        <watch expression="s.charAt(i)" />
-        <watch expression="s.charAt(j)" />
-        <watch expression="s.charAt(i) == s.charAt(j)" />
-        <watch expression="dp[i + 1][j - 1]" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$DivisorGame1025.ic" NAME="DivisorGame1025 Coverage Results" MODIFIED="1562574048015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -843,52 +633,9 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LinkList/ReverseLinkedList206.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkList/SplitLinkedListInParts725.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="82" column="5" selection-start-line="51" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkList/OddEvenLinkedList328.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/递归/Tree/TreeNode.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="700" column="43" selection-start-line="700" selection-start-column="43" selection-end-line="700" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Queue.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Deque.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1029,13 +776,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="56" column="60" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Integer.java" />
     <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/QuickSortP80.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
@@ -1161,61 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/MergeTwoBinaryTrees226.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/MinimumDepthOfBinaryTree111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/PathSum112.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/PathSumIII437.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SubtreeOfAnotherTree572.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SumOfLeftLeaves404.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SymmetricTree101.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StringQuestions/PalindromeNumber9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -1223,17 +909,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/PalindromicSubstrings647.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/MergeTwoBinaryTrees226.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SymmetricTree101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndMatrix/ReshapeMatrix566.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndMatrix/MoveZeroes283.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndMatrix/MaxConsecutiveOnes485.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndMatrix/Search2DMatrixII240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/CountBinarySubstrings696.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="528">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/PalindromicSubstrings647.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SumOfLeftLeaves404.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/SubtreeOfAnotherTree572.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/PathSumIII437.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/PathSum112.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Recursion/MinimumDepthOfBinaryTree111.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
