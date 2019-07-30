@@ -1,5 +1,8 @@
 package LinkList;
 
+/**
+ * https://leetcode-cn.com/problems/reverse-linked-list/
+ */
 public class ReverseLinkedList206 {
     public ListNode reverseList(ListNode head) {
         // 头插法

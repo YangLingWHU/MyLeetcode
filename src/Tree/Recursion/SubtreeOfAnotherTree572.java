@@ -4,6 +4,7 @@ import JVM.TestClassLoader;
 import Tree.TreeNode;
 
 /**
+ * 判断树的子结构
  * https://leetcode-cn.com/problems/subtree-of-another-tree/description/?utm_source=LCUS&utm_medium=ip_redirect&utm_campaign=transfer2china
  */
 public class SubtreeOfAnotherTree572 {
@@ -31,7 +32,7 @@ public class SubtreeOfAnotherTree572 {
         if (t1 != null && t2 != null && t1.val == t2.val) {
             rt = true;
         } else {
-            rt = false;
+            return false;
         }
         rt = rt && isEqual(t1.left, t2.left) && isEqual(t1.right, t2.right);
         return rt;

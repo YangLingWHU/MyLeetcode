@@ -1,4 +1,4 @@
-package jianzhi_offer;
+package SortAlgorithm;
 
 import java.util.Arrays;
 
