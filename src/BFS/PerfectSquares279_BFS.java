@@ -63,7 +63,7 @@ public class PerfectSquares279_BFS {
                     if (next == 0) {
                         return level;
                     }
-                    if (next < 0 ) {
+                    if (next < 0) {
                         break; // 为什么不是continue？
                         // 应该是break更好一点，因为当前的square已经使得next小于0了，接下来的square也会小于零。
                     }

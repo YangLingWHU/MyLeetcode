@@ -6,6 +6,8 @@ import java.util.Arrays;
  * https://www.cnblogs.com/bingxing/p/9356402.html
  */
 public class QuickSortP80 {
+    private int pivot;
+
     public void quickSort(int[] data, int start, int end) {
         if (start >= end) {
             return;

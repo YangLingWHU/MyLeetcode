@@ -54,7 +54,4 @@ public class KthSmallestElementInSortedMatrix378 {
         KthSmallestElementInSortedMatrix378 o = new KthSmallestElementInSortedMatrix378();
         System.out.println(o.kthSmallest(a, 8));
     }
-
-
 }
-
